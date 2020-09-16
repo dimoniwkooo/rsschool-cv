@@ -14,7 +14,6 @@
             eat();
             sleep();
             code();
-            repeat();
         }
     ```
 1. Work history:

@@ -1,0 +1,9 @@
+#inner {
+    display: table;
+    margin: 0 auto;
+  }
+
+#photo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
